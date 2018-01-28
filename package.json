@@ -1,0 +1,27 @@
+{
+  "name": "mean-ang2",
+  "version": "1.0.0",
+  "description": "MEAN stack with angular 2 (MARDI)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MardiZoldyck/MEAN-MARDI.git"
+  },
+  "keywords": [
+    "MEAN",
+    "MARDI"
+  ],
+  "author": "Mardi Jumari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MardiZoldyck/MEAN-MARDI/issues"
+  },
+  "homepage": "https://github.com/MardiZoldyck/MEAN-MARDI#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.1"
+  }
+}
