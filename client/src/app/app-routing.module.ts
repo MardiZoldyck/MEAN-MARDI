@@ -14,7 +14,7 @@ const appRoutes: Routes = [
     { path: '**', 
     component: HomeComponent }
   ];
-
+// module angular
 @NgModule({
     declarations: [],
     imports: [RouterModule.forRoot(appRoutes)],
